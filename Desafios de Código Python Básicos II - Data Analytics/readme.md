@@ -1,7 +1,7 @@
 # 1 / 2 - Remoção de Duplicados 📊
 Nível Básico <br>
 
-## Descrição 📒
+### Descrição 📒
 Em muitos conjuntos de dados, valores duplicados podem distorcer análises e resultados. Dada uma lista de números, você deve remover os valores duplicados e retornar uma lista com valores únicos.
 
 ### Entrada ⬅️
@@ -27,7 +27,7 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 # 2 / 2 - Contagem de Valores Nulos 📊
 Nível Básico <br>
 
-## Descrição 📒
+### Descrição 📒
 Em análise de dados, a identificação de valores ausentes (nulos) é crucial, pois pode afetar a integridade e a qualidade dos dados. Dada uma lista de valores, você deve contar quantos desses valores são None, que representam dados ausentes.
 
 ### Entrada ⬅️
