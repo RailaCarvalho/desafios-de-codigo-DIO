@@ -154,7 +154,7 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 | Ivy | Ivysaur |
 | Venu | Venusaur |
 
-# 1 / 1 - Combinando Nomes de Pokémons 📊
+# 1 / 1 - Gerenciamento de Itens Mágicos 📊
 Nível Básico <br>
 
 ## Descrição 📒
